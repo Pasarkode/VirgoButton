@@ -1,0 +1,3 @@
+rootProject.name = 'VirgoButton'
+
+include ':app'
