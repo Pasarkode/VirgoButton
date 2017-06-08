@@ -1,5 +1,14 @@
 # VirgoButton
-:sunglasses: A Personal, Simple and Reusable React Native Button
+A Personal, Simple and Reusable React Native Button
+
+## Props
+#### style: ViewPropTypes.style
+#### onPress: PropTypes.func
+#### secondary: PropTypes.bool
+#### success: PropTypes.bool
+#### info: PropTypes.bool
+#### warning: PropTypes.bool
+#### danger: PropTypes.bool
 
 ## MIT License
 
